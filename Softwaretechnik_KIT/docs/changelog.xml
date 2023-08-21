@@ -1,0 +1,110 @@
+<changelog><commit>
+					<time>1557239302</time>
+					<sha1>0c54490c00c47a250ff0d11d44695613d122c313</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add Checkstyle Configuration</msg>
+				</commit><commit>
+					<time>1557239285</time>
+					<sha1>605652aeadfd0124a127b226f2702999c3dad178</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Placing a '+' Operator</msg>
+				</commit><commit>
+					<time>1557238955</time>
+					<sha1>7d7eab15f68a50cf429d9880bd9d402f55b792ae</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Handle a long line by spliting it to 3 lines</msg>
+				</commit><commit>
+					<time>1557238844</time>
+					<sha1>1c75db5f322d9c741fc1e2c50167e160873f1e45</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>placing an existing bracket</msg>
+				</commit><commit>
+					<time>1557238429</time>
+					<sha1>a31a18b9b249ec0f4e42f60900ac89139c2e45ff</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add Class Path and set to true</msg>
+				</commit><commit>
+					<time>1557238121</time>
+					<sha1>2794521ef90cc86d1f24e668d88b9bd281e95872</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Edit src.xml of jmjrst.main: include launch, .gitignore, checkstyle_swt1
+and LICENSE</msg>
+				</commit><commit>
+					<time>1557237906</time>
+					<sha1>9d4f770a7fdba2ebdb9e63d8370ead11d12ea782</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add checkstyle and launch files to jmjrst.main</msg>
+				</commit><commit>
+					<time>1557237497</time>
+					<sha1>5cb1d9cf3709ffe97aaf227439f50a2f8d3e7cc5</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add src.xml</msg>
+				</commit><commit>
+					<time>1557237140</time>
+					<sha1>8cfd2f03cdb484172ab7f54805c1aba82eb50694</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Apply patch</msg>
+				</commit><commit>
+					<time>1557237034</time>
+					<sha1>3dd2c994dc6c4bc57f65be41de75ce948f65e8b1</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add files to jmjrst.main</msg>
+				</commit><commit>
+					<time>1557236380</time>
+					<sha1>9b72f76ff41bc751fbc8eae0477630413993f633</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Change Artifact Id to the Matrikelnummer.</msg>
+				</commit><commit>
+					<time>1557236302</time>
+					<sha1>aee8c20e57d14694a934b093bc85ac3498f2c2a6</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Create pom.xml for jmjrst.main</msg>
+				</commit><commit>
+					<time>1557236278</time>
+					<sha1>3ee702e7b64e088f2fd6734a452dc4a70d9f79ad</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Create a Maven modul jmjrst.main</msg>
+				</commit><commit>
+					<time>1557236124</time>
+					<sha1>b5f29b95cf9694dd4dff17dfa2ddf44d8f5f11ce</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add &lt;packaging&gt;pom&lt;/packaging&gt;</msg>
+				</commit><commit>
+					<time>1557235923</time>
+					<sha1>f80d049d99d3fb2884146e0849db7dba418872bb</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add src.xml from the Vorbereitungsblatt</msg>
+				</commit><commit>
+					<time>1557235884</time>
+					<sha1>7bcab759fb40ecd644a39b7511a1aaa0b388d139</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add a code to pom.xml</msg>
+				</commit><commit>
+					<time>1557235713</time>
+					<sha1>60a5c23709e3319c3c31326befc2e71a08b7408b</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add pom.xml</msg>
+				</commit><commit>
+					<time>1557235691</time>
+					<sha1>a84f9cef086cc5fe58ba129e46886688b6205a0e</sha1>
+					<author>Gil Baram</author>
+					<branches>refs/heads/master</branches>
+					<msg>Add .gitignore</msg>
+				</commit></changelog>

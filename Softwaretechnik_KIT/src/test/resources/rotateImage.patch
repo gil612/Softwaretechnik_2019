@@ -1,0 +1,13 @@
+diff --git a/iMage/jmjrst.main/src/test/java/org/jis/generator/GeneratorTest.java b/iMage/jmjrst.main/src/test/java/org/jis/generator/GeneratorTest.java
+index 1471b4a..d9c6642 100644
+--- a/iMage/jmjrst.main/src/test/java/org/jis/generator/GeneratorTest.java
++++ b/iMage/jmjrst.main/src/test/java/org/jis/generator/GeneratorTest.java
+@@ -152,7 +152,7 @@
+ 					assertTrue(img1.getRGB(x, y) == (img2.getRGB(img1.getHeight() - 1 - y, x)));
+ 				}
+ 			}
+-			return true;
++			return true;//check
+ 			
+ 		} else {
+ 			if (angle == Math.toRadians(270) || angle == Math.toRadians(-90)) {
